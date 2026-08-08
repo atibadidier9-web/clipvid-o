@@ -1,3 +1,3 @@
 <resources>
-    <string name="app_name">ClipVideo</string>
+    <style name="Theme.VideoGrabber" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
 </resources>
